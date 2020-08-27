@@ -1,6 +1,6 @@
 # Neural Network for Multiclass Classification - Coded from Scratch in Python
 
-This project is about coding a Neural Network from scratch for a N layer neural network for multiclass classification. It features the following: 
+This project used MNIST Dataset from Keras for coding a Neural Network from scratch for a N layer neural network for multiclass classification. It features the following: 
 - Vectorization
 - Only iterations (no convergence condition)
 - Multi-class problem - used softmax and cross entropy

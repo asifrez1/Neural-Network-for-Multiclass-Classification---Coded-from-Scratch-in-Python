@@ -12,3 +12,7 @@ The training function takes as input: X, y, max_iter=1000, alpha=0.01, and hidde
 - for different number of hidden layers (1, 2, 3, 4, 5, etc)
 - for different alpha values (choosing the "best" hidden layer configuration from the previous item)
 - for different values of lambda (regularization parameter)
+
+Outcome:
+Summary
+The configuration with the network 1 hidden layer worked best among all. Models with multiple hidden layers work better for the datasets that have so many features. I also get better result for the model with learning parameter, alpha = 0.1; it means the model reaches its gradient descent either too slow with smaller values of alpha and fulctuates highly with higher values of alpha. For the regularization parameter, lambda = 5 provided the best result. For the rest of the values, the weight decay was more than optimum for the model.

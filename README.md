@@ -1,5 +1,4 @@
 # Neural Network for Multiclass Classification - Coded from Scratch in Python
-Basic multi layer Neural Network for multiclass classification
 
 This project is about coding a Neural Network from scratch for a N layer neural network for multiclass classification. It features the following: 
 - Vectorization
